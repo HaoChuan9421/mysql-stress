@@ -1,0 +1,7 @@
+{
+  "name": "mysql-stress",
+  "dependencies": {
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.6.5"
+  }
+}
